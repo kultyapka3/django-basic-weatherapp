@@ -3,6 +3,9 @@
 A simple weather application built with **Django** that allows users to add cities and view current weather 
 information using the **OpenWeatherMap API**.
 
+### Main Page
+![Main](screenshots/main_page.png)
+
 ---
 
 ## Features
